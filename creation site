@@ -1,0 +1,22 @@
+      <!DOCTYPE html>
+      <html>
+      <head>
+      <title>Page Title</title>
+      </head>
+      <body>
+
+      <h1>Définitions</h1>
+      <p>Le code HTML est constitué de blocs encadré par des balises,il existe deux types de balises :<p>
+      <ol>
+       <li><strong>Les balises encadrant du codes, la balise fermente commence par &lt;
+       /balise&gt;</strong></li>
+       <li><strong>les<dfn> balises orphelines sont des balise qui n'encadrent aucun code et elles se ferment elle-meme.Par exemple &lt;<abbr title="break row">br</abbr>:&gt; &lt;hr/&gt;<dfn></strong></li>
+       
+       
+     </ol> 
+      <p>le code <abbr title="HyperText Markup Langage">HTML</abbr> permet de créer des blocs de codes avec des fonctions particulieres</p>
+<p>exellent</p>
+<hr/>
+      
+       </body>
+      </html>
